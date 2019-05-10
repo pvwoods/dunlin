@@ -1,7 +1,7 @@
 [package]
 name = "dunlin"
 version = "0.1.0"
-authors = ["Philip Woods <phil@pvw.io>"]
+authors = ["Philip Woods <dunlin@pvw.io>"]
 edition = "2018"
 
 [dependencies]
